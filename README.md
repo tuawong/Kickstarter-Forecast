@@ -11,6 +11,9 @@ We utilized the following data set to construct our model.  The data set is publ
 
 1. [**Kickstarter Data Set**](https://www.kaggle.com/kemical/kickstarter-projects)
 
+### File
+1. 
+
 ### Authors & Acknowledgement
 
 1. [**Kemjika Ananaba**](https://www.linkedin.com/in/kemjika-ananaba/) - 2020 MBAN Student
