@@ -12,7 +12,9 @@ We utilized the following data set to construct our model.  The data set is publ
 1. [**Kickstarter Data Set**](https://www.kaggle.com/kemical/kickstarter-projects)
 
 ### File
-1. 
+1. *Kickstart_Project_Final.ipynb*:  Notebook containing code for end to end implementation of the machine learning project
+2. *Machine_Learning_Project_1.pdf*:  Complete report and analysis
+3. *Output*: Contain the output of all visualizations and analysis
 
 ### Authors & Acknowledgement
 
